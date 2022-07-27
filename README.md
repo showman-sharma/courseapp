@@ -15,3 +15,5 @@ In the file courseapp\src\main\resources\META-INF\persistence.xml, make the rele
   <property name="javax.persistence.jdbc.url" value="Fill in the URL"/>
   <property name="javax.persistence.jdbc.user" value="Input username"/>
   <property name="javax.persistence.jdbc.password" value="Input Password"/>
+  
+![alt text](https://github.com/showman_sharma/courseapp/blob/master/tableStructure.png?raw=true
