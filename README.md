@@ -16,4 +16,5 @@ In the file courseapp\src\main\resources\META-INF\persistence.xml, make the rele
   <property name="javax.persistence.jdbc.user" value="Input username"/>
   <property name="javax.persistence.jdbc.password" value="Input Password"/>
 ```
+Note to create a table in this Database with a structure as follows:  
 ![Table Structure](https://github.com/showman-sharma/courseapp/blob/master/tableStructure.png)
